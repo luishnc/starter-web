@@ -11,3 +11,5 @@ Sample website with plenty of files for demos -- UPDATE
 new lines to test...
 
 ## Deployment
+
+## How to contribute
