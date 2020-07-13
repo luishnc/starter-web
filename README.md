@@ -15,3 +15,7 @@ new lines to test...
 ## How to contribute
 
 New description to contribute
+
+## Copyright
+
+2020 Git.training.
