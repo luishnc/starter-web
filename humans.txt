@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Changes master
 
 # TECHNOLOGY COLOPHON
 
