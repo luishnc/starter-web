@@ -14,7 +14,7 @@ new lines to test...
 
 ## How to contribute
 
-New description to contribute
+Please form this repository and then issue pull request for review 
 
 ## Copyright
 
